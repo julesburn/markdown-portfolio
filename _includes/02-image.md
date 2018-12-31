@@ -1,1 +1,1 @@
-[Image of a jellyfish painted on a page of text](https://imgur.com/YSNhWT8)
+![Image of jellyfish painted on text](https://i.imgur.com/YSNhWT8.jpg)
